@@ -78,8 +78,7 @@ https://github.com/GCKelechi/tailwind-traders-sales-profit-analytics
 
 ## 📜 Certifications
 
-* Microsoft Certified: Power BI Data Analyst Associate (PL-300) *(Updating after exam completion)*
-* Microsoft Certified: Power BI Data Analyst Associate (PL-300) — *Exam scheduled*
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
 * Cisco: Introduction to Data Science
 * Cisco: Python Essentials
 * Harvard CS50
