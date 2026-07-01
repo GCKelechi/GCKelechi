@@ -1,103 +1,169 @@
-# Hi there, I'm Godwin Chukwuemeka Kelechi 
+# Hi there, I'm Godwin Chukwuemeka Kelechi
 
 ## Data Analyst | Business Intelligence | Power BI | SQL | Python
 
-I am a Data Analyst and Business Intelligence professional with a First-Class Bachelor of Computer Applications (BCA) from Amrita Vishwa Vidyapeetham. My experience spans data analytics, software development, process automation, and technical leadership across the oil & gas and education sectors.
+Welcome to my GitHub!
 
-I enjoy transforming complex business problems into practical, data-driven solutions using Power BI, SQL, Python, and modern Business Intelligence tools.
+I'm a **Data Analyst**, **Business Intelligence Professional**, and **Software Engineer** with a First-Class Bachelor of Computer Applications (BCA) from Amrita Vishwa Vidyapeetham (8.41 CGPA). I have over **10,000 hours of experience** delivering data-driven solutions, enterprise software, automation tools, and technical training across the Oil & Gas and Education sectors.
 
+I enjoy transforming complex business challenges into practical, scalable solutions using data analytics, Business Intelligence, automation, and modern software engineering practices.
 
-##  About Me
+---
 
-* 🎓 First-Class BCA (8.41 CGPA)
+# 🚀 About Me
+
 * 📊 Data Analytics & Business Intelligence
-* 💻 Python | SQL | Power BI | DAX | Excel
-* ☁️ AWS | MySQL | Java | JavaScript
+* 📈 Microsoft Power BI | DAX | Power Query
+* 🐍 Python | SQL | Java | JavaScript
+* ☁️ AWS | MySQL | PostgreSQL
 * 👨‍🏫 Technical Instructor at JC International
+* 👨‍💻 Software Engineering Team Lead
+* 🎓 First-Class Bachelor of Computer Applications
 * 🌍 Based in Nigeria
-* 🎯 Seeking Remote Data Analyst & Business Intelligence opportunities
+* 💼 Open to Remote Data Analytics & Business Intelligence Opportunities
 
+---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
-### Business Intelligence
+## Business Intelligence
 
 * Microsoft Power BI
-* DAX
 * Power Query
+* DAX
 * Data Modeling
 * Dashboard Design
-* KPI Reporting
+* KPI Development
+* Executive Reporting
+* Business Intelligence
 
-### Programming
+## Data Analytics
+
+* Data Cleaning
+* Data Visualization
+* ETL
+* Statistical Analysis
+* Time Intelligence
+* Reporting Automation
+
+## Programming
 
 * Python
 * SQL
 * Java
 * JavaScript
+* Spring Boot
+* Node.js
 
-### Databases
+## Databases
 
 * MySQL
 * PostgreSQL
+* MongoDB
 
-### Cloud & Tools
+## Cloud & Development
 
 * AWS
 * Git
 * GitHub
 * Figma
 
+---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 📊 Tailwind Traders Sales & Profit Analytics Dashboard
 
-Interactive Business Intelligence dashboard developed in Microsoft Power BI featuring:
+Interactive Business Intelligence dashboard developed with Microsoft Power BI featuring:
 
 * Sales Analytics
 * Profitability Analysis
 * Customer Insights
 * Inventory Monitoring
 * KPI Reporting
-* DAX Time Intelligence
+* Interactive Dashboards
+* Time Intelligence
+* DAX Measures
 
-🔗 Repository:
-https://github.com/GCKelechi/tailwind-traders-sales-profit-analytics
+🔗 https://github.com/GCKelechi/tailwind-traders-sales-profit-analytics
 
+---
 
-### 🚧 Upcoming Portfolio Projects
+### 🚧 Enterprise Projects (Coming Soon)
 
-* JCInspect Enterprise Case Study
-* TankIQ Engineering Analytics
-* SmartLearning
-* SmartKids
-* SQL Business Case Studies
-* Python Data Analytics Projects
+* JCInspect – Enterprise Inspection & Certification Platform
+* TankIQ – Tank Calibration Analytics Platform
+* SmartLearning – Educational Technology Platform
+* SmartKids – Interactive Learning Platform
 
+---
 
-## 📜 Certifications
+# 🎓 Professional Credentials
 
-* Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
-* Cisco: Introduction to Data Science
-* Cisco: Python Essentials
-* Harvard CS50
-* Coursera Data Analysis & Visualization
+## Academic
 
+* First-Class Bachelor of Computer Applications (BCA)
 
-## 📚 Currently Learning
+## Business Intelligence & Analytics
 
-* Advanced Power BI
+* Microsoft PL-300 (Exam Scheduled)
+* Power BI Data Modeling
+* Extract, Transform & Load Data with Power BI
+* Harnessing the Power of Data with Power BI
+* Data Analysis & Visualization with Python
+* Cisco Introduction to Data Science
+
+## Programming
+
+* Cisco Python Essentials 1
+* Cisco Python Essentials 2
+* Programming Essentials in Python (PCAP)
+* Harvard CS50x
+* Java Enterprise Development
+
+## Cybersecurity & Networking
+
+* Cisco Cybersecurity Essentials
+* Cisco Introduction to Cybersecurity
+* CCNA: Introduction to Networks
+
+## UX Design
+
+* Google UX Design Professional Certificate
+* Figma
+* UX Research
+* Wireframing & Prototyping
+
+---
+
+# 📚 Currently Learning
+
+* Microsoft Power BI (PL-300 Certification)
 * Microsoft Fabric
-* Advanced SQL
-* Data Engineering Fundamentals
 * Azure Data Platform
+* Advanced SQL
+* Data Engineering
 
+---
 
-## 📫 Connect With Me
+# 📈 GitHub Goals (2026)
 
-* LinkedIn: https://www.linkedin.com/in/godwin-kelechi
-* GitHub: https://github.com/GCKelechi
+* Build 10+ Business Intelligence & Data Analytics portfolio projects
+* Publish enterprise software case studies
+* Contribute to open-source projects
+* Share technical articles and tutorials
+* Continuously improve data analytics and software engineering skills
 
+---
 
-*"Turning data into actionable insights that drive better business decisions."*
+# 🤝 Let's Connect
+
+💼 LinkedIn: **https://www.linkedin.com/in/godwin-kelechi**
+
+🌐 Portfolio: *(Coming Soon)*
+
+📧 Email: **gckelechi@gmail.com**
+
+---
+
+> **"Helping organizations transform data into actionable insights through Business Intelligence, analytics, and automation."**
